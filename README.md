@@ -23,3 +23,8 @@ O código apresentado é um jogo da forca implementado em Python. Ele funciona d
 O código utiliza o módulo `random` para escolher uma palavra aleatória da lista de palavras possíveis. Além disso, faz uso de estruturas de dados como listas e dicionários para armazenar informações sobre as palavras e o estado do jogo. Também utiliza comandos de controle de fluxo, como loops e condicionais, para controlar o andamento do jogo.
 
 Em resumo, o código implementa o jogo da forca, onde o jogador tenta adivinhar uma palavra secreta fornecendo letras como palpites. O jogo exibe informações sobre o estado do jogo, como letras descobertas, letras erradas e tentativas restantes, e verifica se o jogador venceu ou perdeu.
+
+Modificações que podem ser feitas:
+1. Você pode fazer uso de uma API para retornar palavras ao invés de fazer a escolha manualmente
+2. Você pode modificar a quantidade de tentativas, palavras e letras
+   
